@@ -1,0 +1,11 @@
+.website__logo {
+	width: 984px;
+	height: 615px;
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	margin: 0;
+	padding-right: 100px;
+	padding-left: 100px;
+	background-image:/images/lead-polka.jpg;
+}
