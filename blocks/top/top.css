@@ -1,0 +1,10 @@
+.top {
+  max-width: 984px;
+  margin: 0 auto 92px;
+}
+
+@media (max-width: 320px) {
+  .top {
+    margin-bottom: 64px;
+  }
+}

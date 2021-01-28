@@ -1,0 +1,22 @@
+.top__image {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 1024px) {
+  .top__image {
+    margin-bottom: 8px;
+  }
+}
+
+@media (max-width: 768px) {
+  .top__image {
+    margin-bottom: 8px;
+  }
+}
+
+@media (max-width: 320px) {
+  .top__image {
+    margin-bottom: 8px;
+  }
+}
