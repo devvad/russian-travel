@@ -17,6 +17,12 @@
 @import url(../blocks/top/__image/top__image.css);
 @import url(../blocks/top/__caption/top__caption.css);
 
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/description/__facts/description__facts.css);
+@import url(../blocks/description/__text-fact/description__text-fact.css);
+
 
 
 
