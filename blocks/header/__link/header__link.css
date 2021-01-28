@@ -1,13 +1,14 @@
 .header__link {
-	color: white;
-	text-decoration: none;
-	width: 29px;
-	height: 28px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #fff;
+  text-decoration: none;
 }
 
-.header__link:first-child {
-	margin-right: 14px;
-	text-decoration: underline;
-	width: 30px;
-	height: 28px;
+@media (max-width: 320px) {
+  .header__link {
+    font-size: 18px;
+  }
 }
+
