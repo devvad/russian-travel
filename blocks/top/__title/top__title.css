@@ -20,7 +20,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .top__title {
     margin-bottom: 16px;
     font-size: 40px;

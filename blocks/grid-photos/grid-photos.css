@@ -21,10 +21,15 @@
   }
 }
 
+@media (max-width: 375px) {
+  .grid-photos {
+    grid-template-columns: 1fr;
+    margin-bottom: 64px;
+  }
+}
+
 @media (max-width: 320px) {
   .grid-photos {
-		grid-template-columns: 1fr;
-    margin-bottom: 64px;
-		row-gap: 12px;
+    row-gap: 12px;
   }
 }
