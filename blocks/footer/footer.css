@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 0 48px 24px;
+}
+
+@media (max-width: 425px) {
+  .footer {
+    flex-direction: column;
+  }
+}

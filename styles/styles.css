@@ -1,4 +1,4 @@
-@import url(../styles/normalize.css);
+@import url(../vendor/normalize.css);
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__margins/page__margins.css);
@@ -38,6 +38,20 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__website/place__website.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+
+
 
 
 
