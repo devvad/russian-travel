@@ -1,5 +1,11 @@
 .cover {
-  margin-bottom: 92px;
+  margin: 0 48px 92px;
+}
+
+@media (max-width: 1024px) {
+  .cover {
+    margin: 0 0 88px;
+  }
 }
 
 @media (max-width: 768px) {
