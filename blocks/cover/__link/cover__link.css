@@ -13,6 +13,16 @@
 	opacity: 1;
 }
 
+.cover__link:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
 .cover__link:hover {
   opacity: .8;
   transition: opacity .3s ease-out;

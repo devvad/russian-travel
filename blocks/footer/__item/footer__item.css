@@ -1,5 +1,4 @@
 .footer__item {
-  display: inline-block;
   margin-right: 18px;
 }
 
@@ -9,7 +8,6 @@
 
 @media (max-width: 425px) {
   .footer__item {
-    display: block;
     margin-bottom: 32px;
   }
 }
