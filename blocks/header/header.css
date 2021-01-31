@@ -3,11 +3,5 @@
   justify-content: space-between;
   align-items: flex-end;
   padding-top: 28px;
-  margin: 0 auto 56px;
-}
-
-@media (max-width: 425px) {
-  .header {
-    padding-top: 16px;
-  }
+  margin: 0 48px 56px;
 }

@@ -26,7 +26,8 @@
 
 @media (max-width: 425px) {
   .place {
-    display: block;
-    margin-bottom: 50px;
+		display: flex;
+		flex-direction: column;
+		padding: 0;
   }
 }

@@ -4,6 +4,7 @@
 
 @media (max-width: 425px) {
   .place__website {
-    display: none;
+		display: flex;
+		flex-direction: column;
   }
 }
