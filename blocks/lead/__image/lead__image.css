@@ -1,22 +1,22 @@
-.top__image {
+.lead__image {
   width: 100%;
   margin-bottom: 8px;
 }
 
 @media (max-width: 1024px) {
-  .top__image {
+  .lead__image {
     margin-bottom: 8px;
   }
 }
 
 @media (max-width: 768px) {
-  .top__image {
+  .lead__image {
     margin-bottom: 8px;
   }
 }
 
 @media (max-width: 425px) {
-  .top__image {
+  .lead__image {
     margin-bottom: 8px;
   }
 }

@@ -1,10 +1,10 @@
-.top {
+.lead {
   max-width: 984px;
   margin: 0 auto 92px;
 }
 
 @media (max-width: 425px) {
-  .top {
+  .lead {
     margin-bottom: 64px;
   }
 }

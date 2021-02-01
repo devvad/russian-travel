@@ -11,12 +11,12 @@
 @import url(../blocks/header/__link/_underline/header__link_underline.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
-@import url(../blocks/top/top.css);
-@import url(../blocks/top/__title/top__title.css);
-@import url(../blocks/top/__subtitle/top__subtitle.css);
-@import url(../blocks/top/__image-container/top__image-container.css);
-@import url(../blocks/top/__image/top__image.css);
-@import url(../blocks/top/__caption/top__caption.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image-container/lead__image-container.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
 
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__title/description__title.css);
