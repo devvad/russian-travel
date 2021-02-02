@@ -12,45 +12,11 @@
 	max-width: 560px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 767px) {
   .cover__title {
-    margin-bottom: 80px;
-  }
-}
-
-@media (max-width: 768px) {
-  .cover__title {
-    margin-bottom: 45px;
-  }
-}
-
-@media (max-width: 590px) {
-  .cover__title {
-    font-size: 52px;
-    line-height: 56px;
-  }
-}
-
-@media (max-width: 425px) {
-  .cover__title {
-    margin-bottom: 32px;
-    font-size: 40px;
-		line-height: 44px;
-		max-width: 288px;
-  }
-}
-
-@media (max-width: 375px) {
-  .cover__title {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     font-size: 32px;
 		line-height: 35px;
 		max-width: 250px;
-  }
-}
-
-@media (max-width: 320px) {
-  .cover__title {
-    margin-bottom: 7px;
   }
 }

@@ -2,9 +2,11 @@
   align-self: end;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 767px) {
   .place__website {
 		display: flex;
 		flex-direction: column;
+		margin-bottom: 32px;
+		padding-left: 16px;
   }
 }
