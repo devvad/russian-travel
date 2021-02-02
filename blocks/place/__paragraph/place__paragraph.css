@@ -5,3 +5,9 @@
 .place__paragraph:last-child {
   margin-bottom: 0;
 }
+
+@media (max-width: 768px) {
+  .place__paragraph {
+    margin-bottom: 25px;
+  }
+}

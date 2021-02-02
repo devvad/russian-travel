@@ -15,7 +15,19 @@
   }
 }
 
+@media (max-width: 540px) {
+  .lead__image-container {
+    max-width: 540px;
+  }
+}
+
 @media (max-width: 425px) {
+  .lead__image-container {
+    max-width: 425px;
+  }
+}
+
+@media (max-width: 320px) {
   .lead__image-container {
     max-width: 320px;
   }

@@ -3,11 +3,12 @@
   background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	display: flex;
 	position: relative;
-  display: flex;
   flex-direction: column;
 	justify-content: center;
-  min-height: 594px;
+	min-height: 740px;
+	width: 100%;
   padding: 42px 20px;
   color: #fff;
   text-decoration: none;

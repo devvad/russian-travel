@@ -12,7 +12,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 375px) {
   .page__margins {
     margin-right: 16px;
     margin-left: 16px;
