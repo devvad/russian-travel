@@ -14,13 +14,11 @@
 @media (max-width: 1023px) {
   .place__image {
     max-width: 340px;
-    margin-bottom: 24px;
   }
 }
 
 @media (max-width: 767px) {
   .place__image {
     max-width: 100%;
-    margin-bottom: 24px;
   }
 }

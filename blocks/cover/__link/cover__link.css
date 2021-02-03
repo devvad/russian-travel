@@ -26,9 +26,8 @@
   transition: opacity .3s ease-out;
 }
 
-.cover__link:hover {
+.cover__link:hover:before {
 	opacity: .8;
-  transition: opacity .3s ease-out;
 }
 
 @media (max-width: 1279px) {
